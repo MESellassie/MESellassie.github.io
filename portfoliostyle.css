@@ -289,6 +289,114 @@ hr {
     -o-transition: opacity .6s ease-out;
 }
 
+.how-id-lead {
+    float: left;
+    margin: 20px 20px 0px 12px;
+    height: 200px;
+}
+
+.how-id-lead-box {
+    width: 200px;
+    height: 35px;
+    background: #4aaaa5;
+    text-align: center;
+    font-size: 14px;
+    padding-top: 20px;
+    color: white;
+    position: relative;
+    bottom: 70px;
+    clear: right;
+}
+
+.how-id-leadimg {
+    height: 200px;
+    width: 200px;
+    opacity: .8;
+}
+
+.how-id-leadimg:hover {
+    opacity: 1;
+    transition: opacity .6 ease-out;
+    -moz-transition: opacity .6s ease-out;
+    -webkit-transition: opacity .6s ease-out;
+    -o-transition: opacity .6s ease-out;
+}
+
+.capital {
+    float: left;
+    margin: 20px 20px 0px 12px;
+    height: 200px;
+}
+
+.capital-box {
+    width: 200px;
+    height: 35px;
+    background: #4aaaa5;
+    text-align: center;
+    font-size: 14px;
+    padding-top: 20px;
+    color: white;
+    position: relative;
+    bottom: 70px;
+    clear: right;
+}
+
+.capitalimg {
+    height: 200px;
+    width: 200px;
+    opacity: .8;
+}
+
+.capitalimg:hover {
+    opacity: 1;
+    transition: opacity .6 ease-out;
+    -moz-transition: opacity .6s ease-out;
+    -webkit-transition: opacity .6s ease-out;
+    -o-transition: opacity .6s ease-out;
+}
+
+.tiger {
+    float: left;
+    margin: 20px 20px 0px 12px;
+    height: 200px;
+}
+
+.tiger-box {
+    width: 200px;
+    height: 35px;
+    background: #4aaaa5;
+    text-align: center;
+    font-size: 14px;
+    padding-top: 20px;
+    color: white;
+    position: relative;
+    bottom: 70px;
+    clear: right;
+}
+
+
+.tbottom-img {
+    height: 200px;
+    width: 200px;
+    opacity: .8;
+    position: absolute;
+}
+
+.ttop-img {
+    height: 200px;
+    width: 200px;
+    opacity: 1;
+    position: absolute;
+}
+
+.ttop-img:hover {
+    opacity: 0;
+    transition: opacity .6 ease-in-out;
+    -moz-transition: opacity .6s ease-in-out;
+    -webkit-transition: opacity .6s ease-in-out;
+    -o-transition: opacity .6s ease-in-out;
+}
+
 p {
     line-height: 30px;
     padding-top: 30px;
