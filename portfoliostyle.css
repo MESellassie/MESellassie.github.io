@@ -123,12 +123,124 @@ hr {
     border: none;
 }
 
-.bio-image {
+.lazarus {
+    float: left;
+    margin: 20px 20px 0px 12px;
+    height: 200px;
+}
+
+.lazarus-box {
+    width: 200px;
+    height: 35px;
+    background: #4aaaa5;
+    text-align: center;
+    padding-top: 17px;
+    color: white;
+    position: relative;
+    bottom: 70px;
+    clear: right;
+}
+
+.lazarusimg {
     height: 200px;
     width: 200px;
-    margin-top: 20px;
+    opacity: .8;
+}
+
+.heart-cloud {
     float: left;
-    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 0px 12px;
+    height: 200px;
+}
+
+.heart-cloud-box {
+    width: 200px;
+    height: 35px;
+    background: #4aaaa5;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    position: relative;
+    bottom: 70px;
+    clear: right;
+}
+
+.heart-cloudimg {
+    height: 200px;
+    width: 200px;
+    opacity: .8;
+}
+
+.georgia {
+    float: left;
+    margin: 20px 20px 0px 12px;
+    height: 200px;
+}
+
+.georgia-box {
+    width: 200px;
+    height: 35px;
+    background: #4aaaa5;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    position: relative;
+    bottom: 70px;
+    clear: right;
+}
+
+.georgiaimg {
+    height: 200px;
+    width: 200px;
+    opacity: .8;
+}
+
+.gov-race {
+    float: left;
+    margin: 20px 20px 0px 12px;
+    height: 200px;
+}
+
+.gov-race-box {
+    width: 200px;
+    height: 35px;
+    background: #4aaaa5;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    position: relative;
+    bottom: 70px;
+    clear: right;
+}
+
+.gov-raceimg {
+    height: 200px;
+    width: 200px;
+    opacity: .8;
+}
+
+.race-equity {
+    float: left;
+    margin: 20px 20px 0px 12px;
+    height: 200px;
+}
+
+.race-equity-box {
+    width: 200px;
+    height: 35px;
+    background: #4aaaa5;
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+    position: relative;
+    bottom: 70px;
+    clear: right;
+}
+
+.race-equityimg {
+    height: 200px;
+    width: 200px;
+    opacity: .8;
 }
 
 p {
