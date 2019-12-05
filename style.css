@@ -131,6 +131,24 @@ hr {
     padding: 20px 20px 20px 20px;
 }
 
+.bio-bw-image {
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+    float: left;
+    padding: 20px 20px 20px 20px;
+    opacity: 1;
+    position: absolute;
+}
+
+.bio-bw-image:hover {
+    opacity: 0;
+    transition: opacity .6 ease-out;
+    -moz-transition: opacity .6s ease-out;
+    -webkit-transition: opacity .6s ease-out;
+    -o-transition: opacity .6s ease-out;
+}
+
 p {
     line-height: 30px;
     padding-top: 30px;
