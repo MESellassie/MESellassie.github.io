@@ -134,6 +134,7 @@ hr {
     height: 35px;
     background: #4aaaa5;
     text-align: center;
+    font-size: 14px;
     padding-top: 17px;
     color: white;
     position: relative;
@@ -144,7 +145,16 @@ hr {
 .lazarusimg {
     height: 200px;
     width: 200px;
-    opacity: .8;
+    opacity: .6;
+
+}
+
+.lazarusimg:hover {
+    opacity: 1;
+    transition: opacity .6 ease-out;
+    -moz-transition: opacity .6s ease-out;
+    -webkit-transition: opacity .6s ease-out;
+    -o-transition: opacity .6s ease-out;
 }
 
 .heart-cloud {
@@ -159,6 +169,7 @@ hr {
     background: #4aaaa5;
     text-align: center;
     padding-top: 20px;
+    font-size: 14px;
     color: white;
     position: relative;
     bottom: 70px;
@@ -168,7 +179,15 @@ hr {
 .heart-cloudimg {
     height: 200px;
     width: 200px;
-    opacity: .8;
+    opacity: .6;
+}
+
+.heart-cloudimg:hover {
+    opacity: 1;
+    transition: opacity .6 ease-out;
+    -moz-transition: opacity .6s ease-out;
+    -webkit-transition: opacity .6s ease-out;
+    -o-transition: opacity .6s ease-out;
 }
 
 .georgia {
@@ -183,6 +202,7 @@ hr {
     background: #4aaaa5;
     text-align: center;
     padding-top: 20px;
+    font-size: 14px;
     color: white;
     position: relative;
     bottom: 70px;
@@ -192,7 +212,15 @@ hr {
 .georgiaimg {
     height: 200px;
     width: 200px;
-    opacity: .8;
+    opacity: .6;
+}
+
+.georgiaimg:hover {
+    opacity: 1;
+    transition: opacity .6 ease-out;
+    -moz-transition: opacity .6s ease-out;
+    -webkit-transition: opacity .6s ease-out;
+    -o-transition: opacity .6s ease-out;
 }
 
 .gov-race {
@@ -206,6 +234,7 @@ hr {
     height: 35px;
     background: #4aaaa5;
     text-align: center;
+    font-size: 14px;
     padding-top: 20px;
     color: white;
     position: relative;
@@ -216,7 +245,15 @@ hr {
 .gov-raceimg {
     height: 200px;
     width: 200px;
-    opacity: .8;
+    opacity: .6;
+}
+
+.gov-raceimg:hover {
+    opacity: 1;
+    transition: opacity .6 ease-out;
+    -moz-transition: opacity .6s ease-out;
+    -webkit-transition: opacity .6s ease-out;
+    -o-transition: opacity .6s ease-out;
 }
 
 .race-equity {
@@ -230,6 +267,7 @@ hr {
     height: 35px;
     background: #4aaaa5;
     text-align: center;
+    font-size: 14px;
     padding-top: 20px;
     color: white;
     position: relative;
@@ -241,6 +279,14 @@ hr {
     height: 200px;
     width: 200px;
     opacity: .8;
+}
+
+.race-equityimg:hover {
+    opacity: 1;
+    transition: opacity .6 ease-out;
+    -moz-transition: opacity .6s ease-out;
+    -webkit-transition: opacity .6s ease-out;
+    -o-transition: opacity .6s ease-out;
 }
 
 p {
